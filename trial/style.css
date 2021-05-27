@@ -1,0 +1,19 @@
+html {
+    background-color: lightblue;
+    font-size: 20px;
+  }
+  
+  ul {
+    background: lightgoldenrodyellow;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  li {
+    margin-left: 20px;
+  }
+
+  .myclass{
+    color: orange;
+
+  }
